@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShapingStore.Domain", "OnlineShapingStore.Domain\OnlineShapingStore.Domain.csproj", "{21964A1D-BF0A-4F44-BD80-4F9C37E255DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShapingStore.WebUI", "OnlineShapingStore.WebUI\OnlineShapingStore.WebUI.csproj", "{0BA4A28C-82BA-4895-BB95-A80070074727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21964A1D-BF0A-4F44-BD80-4F9C37E255DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21964A1D-BF0A-4F44-BD80-4F9C37E255DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21964A1D-BF0A-4F44-BD80-4F9C37E255DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21964A1D-BF0A-4F44-BD80-4F9C37E255DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA4A28C-82BA-4895-BB95-A80070074727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA4A28C-82BA-4895-BB95-A80070074727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA4A28C-82BA-4895-BB95-A80070074727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA4A28C-82BA-4895-BB95-A80070074727}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
